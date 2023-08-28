@@ -1,0 +1,17 @@
+de/analytikjena/darwin/report/chart/LineChartImpl.class
+de/analytikjena/darwin/report/image/Image.class
+de/analytikjena/darwin/report/TemplateConverter.class
+de/analytikjena/darwin/report/style/PlotStyle$Styles.class
+de/analytikjena/darwin/report/table/Tabular.class
+de/analytikjena/darwin/report/image/ImageImpl.class
+de/analytikjena/darwin/report/table/CustomTabular.class
+de/analytikjena/darwin/report/chart/LineChart.class
+de/analytikjena/darwin/report/chart/Graphdata.class
+de/analytikjena/darwin/report/TexReport.class
+de/analytikjena/darwin/report/PdfGenerator.class
+de/analytikjena/darwin/report/style/PlotStyle$Colors.class
+de/analytikjena/darwin/report/Header.class
+de/analytikjena/darwin/report/I18n.class
+de/analytikjena/darwin/report/style/PlotStyle.class
+de/analytikjena/darwin/report/style/PlotStyle$Thickness.class
+de/analytikjena/darwin/report/table/TabularImpl.class

@@ -1,0 +1,15 @@
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/PdfGenerator.java
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/I18n.java
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/TexReport.java
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/table/Tabular.java
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/chart/LineChartImpl.java
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/Header.java
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/chart/LineChart.java
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/table/CustomTabular.java
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/image/Image.java
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/image/ImageImpl.java
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/package-info.java
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/table/TabularImpl.java
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/style/PlotStyle.java
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/chart/Graphdata.java
+/home/mi/Projects/Workspace_Darwin/aj-darwin/aj-darwin-report/src/main/java/de/analytikjena/darwin/report/TemplateConverter.java

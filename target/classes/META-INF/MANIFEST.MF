@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: Darwin Report
+Implementation-Version: 0.10.0-SNAPSHOT
+Implementation-Vendor-Id: de.analytikjena
+Build-Jdk: 1.7.0_21
+Built-By: mi
+Created-By: Maven Integration for Eclipse
+

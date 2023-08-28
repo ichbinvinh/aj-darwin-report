@@ -1,0 +1,51 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>de.analytikjena</groupId>
+		<artifactId>aj-darwin</artifactId>
+		<version>0.10.0-SNAPSHOT</version>
+	</parent>
+	<artifactId>aj-darwin-report</artifactId>
+	<name>Darwin Report</name>
+	<description>
+	Wichtigste Abhängigkeiten:
+
+		TeXLive ab 2013 :
+			TeXLive ist die umfangreichste verfügbare TeX-Distribution. 
+			Diese stellt alle benötigten Komponenten (Pakete, Compiler, Hilfen und vieles mehr) zur Verfügung.
+		PdfTex:
+			TeX und LaTeX erzeugen ein DVI-Dokument. Das später entwickelte pdfTeX gibt dagegen ein PDF-Dokument aus. 
+			Diese Distribution ist in TeXLive als Paket integriert.
+		PGFPlots:
+			Um Diagramme mit LaTeX zu erzeugen. Diese Distribution ist in TeX Live als Paket integriert.
+		Dokumentenbetrachter: Evince(für PDF-Datei).
+		
+		TexLive Installation:
+			# 	sudo apt-get install texlive
+		Zusätzliche Paketen für TeXLive:
+			#	sudo apt-get install texlive-latex-extra
+		Zusätzliche Schriftarten für TeXLive:
+			# 	sudo apt-get install texlive-fonts-extra
+		Paket für asiatische Schriftarten:
+			# 	sudo apt-get install texlive-lang-korean
+	</description>
+	<properties>
+		<!-- Build -->
+		<java.version>1.7</java.version>
+	</properties>
+	<dependencies>
+		<!-- <dependency> <groupId>de.analytikjena</groupId> <artifactId>aj-common</artifactId> </dependency> -->
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.4</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.velocity</groupId>
+			<artifactId>velocity</artifactId>
+			<version>1.7</version>
+		</dependency>
+	</dependencies>
+
+</project>
